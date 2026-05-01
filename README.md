@@ -2,7 +2,7 @@
  I'm Artyom, a beginner Developer
 
 ## About me
-Student of DSTU
+Student of DSTU<br>
 I currently learning: Python, SQL
 
 ## Tech stak
@@ -16,6 +16,6 @@ I currently learning: Python, SQL
 
 
 ## Contact me
-Telegram: @nlo_cln
+Telegram: @nlo_cln<br>
 Email: eao101@mail.ru
 
