@@ -1,16 +1,17 @@
 ## Hi there 👋
+ I'm Artyom, a beginner Developer
 
-<!--
-**artyom-e/artyom-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Student of DSTU
+I currently learning: Python, SQL
 
-Here are some ideas to get you started:
+## Tech stak
+![Python](https://img.shields.io/badge/Python-blue)
+NumPy, Matplotlib
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+Telegram: @nlo_cln
+Email: eao101@mail.ru
+
