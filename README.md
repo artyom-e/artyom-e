@@ -3,7 +3,7 @@
 
 ## About me
 Student of DSTU<br>
-I currently learning: Python, SQL
+I'm currently learning: Python, SQL
 
 ## Tech stak
 ![Python](https://img.shields.io/badge/Python-blue) 
